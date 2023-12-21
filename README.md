@@ -1,5 +1,5 @@
 # ML_PROJECT
-numrcal dataset
+ numerical dataset
 
 House Prices - Advanced Regression Techniques
 
