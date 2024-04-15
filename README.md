@@ -1,5 +1,6 @@
 # ML_PROJECT
  numerical dataset
+ use Linear regression & KNN 
 
 House Prices - Advanced Regression Techniques
 
